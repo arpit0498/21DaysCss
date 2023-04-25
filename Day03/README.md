@@ -7,6 +7,12 @@
 
 ## Resources:
 
+[Basic Syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+[Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#selectors)
+
+[Selector different representations](https://www.w3.org/TR/selectors/#overview)
+
 ## Project
 
 **Earth and Mars**
