@@ -15,6 +15,11 @@
 
 ## Project
 
+![](./project/main_solar.png)
+![](./project/earth.png)
+
+![](./project/mars.png)
+
 **Earth and Mars**
 
 1. To create a 3 page website about `Earth and Mars.`

@@ -1,7 +1,16 @@
 html{
-  background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(58, 167, 222));
+     box-sizing: border-box;
+  background: #eeeeee;
+  font-family: 'helvetica neue';
+  font-size: 20px;
+  font-weight: 200;
+  background-image: linear-gradient(to left, rgba(255,0,0,0), rgb(58, 167, 222));
 }
 
+body{
+    margin: 10px;
+    padding: 50px;
+}
 h1{
     font-size: 60px;
 }
