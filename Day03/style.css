@@ -1,0 +1,15 @@
+html{
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(58, 167, 222));
+}
+
+h1{
+    font-size: 60px;
+}
+
+.mars-heading{
+    color: #d33d1f;
+}
+
+.earth-heading{
+    color:#2a8442
+}
