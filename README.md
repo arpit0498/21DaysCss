@@ -23,3 +23,28 @@ Created Blog on `Color schemes CSS`
 [Project Link](./Day02/project_day02/)
 
 [Github Link](https://github.com/arpit0498/21DaysCss)
+
+## Day 3
+
+# Today's Learning
+
+- List
+- image
+- CSS selectors
+- CSS specificity
+
+## Resources:
+
+[Basic Syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+[Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#selectors)
+
+[Selector different representations](https://www.w3.org/TR/selectors/#overview)
+
+![Day 3](./Day03/project/main_solar.png)
+![Day 3](./Day03/project/earth.png)
+![Day 3](./Day03/project/mars.png)
+
+[Project Link](./Day03/)
+
+[Github Link](https://github.com/arpit0498/21DaysCss)
