@@ -136,3 +136,9 @@ Auto will automatically place all the available space on that
 side.
 If we use auto on both the left and the right, it will center the
 element on the page.
+
+## Project
+
+[ Project Instructions](./project/README.md)
+
+<img src="./Assets/day_4_project.png" />
