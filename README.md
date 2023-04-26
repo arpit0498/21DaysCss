@@ -26,7 +26,7 @@ Created Blog on `Color schemes CSS`
 
 ## Day 3
 
-# Today's Learning
+### Today's Learning
 
 - List
 - image
@@ -48,3 +48,23 @@ Created Blog on `Color schemes CSS`
 [Project Link](./Day03/)
 
 [Github Link](https://github.com/arpit0498/21DaysCss)
+
+## Day 4
+
+### Today Learning
+
+1. Internal CSS
+2. External CSS
+3. id vs class
+4. Box Model
+   - margin
+   - padding
+   - border
+
+## Project
+
+<img src="./Day04/Assets/day_4_project.png" alt="project" />
+
+[Project Link](./Day04/project/)
+
+[Github Link](https://github.com/arpit0498/21DaysCss/Day04)
