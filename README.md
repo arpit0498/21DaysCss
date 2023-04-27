@@ -67,4 +67,28 @@ Created Blog on `Color schemes CSS`
 
 [Project Link](./Day04/project/)
 
-[Github Link](https://github.com/arpit0498/21DaysCss/Day04)
+[Github Link](./Day04/)
+
+## Day 5
+
+[Day 5](./Day05/)
+
+[Github repo Link](https://github.com/arpit0498/21DaysCss)
+
+### **Today Learning**
+
+- Flexbox
+- Building layout
+- media queries for responsive layout
+
+1. **responsive navigation**
+   <img src="./Day05/Assets/nav_project.gif">
+
+   [codesandbox Link](https://codesandbox.io/s/responsive-nav-using-flex-cz4zus)
+
+   [Github Link](./Day05/project/nav_bar/)
+
+2. **flex website**
+   <img src="./Day05/Assets/flex_website.png">
+
+   [Github Link](./Day05/project/flex_website/)
