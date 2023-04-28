@@ -92,3 +92,30 @@ Created Blog on `Color schemes CSS`
    <img src="./Day05/Assets/flex_website.png">
 
    [Github Link](./Day05/project/flex_website/)
+
+## Day 6
+
+**[Day 6 code](./Day06/)**
+
+### **Today Learning**
+
+- Css mesurements
+
+  - Absolute
+  - Relative
+
+    [Click here for measurement units](./CSS_measurements.md)
+
+- Flex Image Gallery
+- Completed Half of blog on Flexbox
+
+## Project
+
+1. **Image Gallery using Flex**
+   <img src="./Day06/Assets/project-images/day6project.gif">
+
+   Image will automatically adapt its width and height according to the screen size.
+
+   [Github Link](https://github.com/arpit0498/21DaysCss/tree/main/Day06)
+
+   [website](./project/imagr-grid/)
