@@ -104,7 +104,7 @@ Created Blog on `Color schemes CSS`
   - Absolute
   - Relative
 
-    [Click here for measurement units](./CSS_measurements.md)
+    [Click here for measurement units](./Day06/CSS_measurements.md)
 
 - Flex Image Gallery
 - Completed Half of blog on Flexbox
@@ -118,4 +118,4 @@ Created Blog on `Color schemes CSS`
 
    [Github Link](https://github.com/arpit0498/21DaysCss/tree/main/Day06)
 
-   [website](./project/imagr-grid/)
+   [website](./Day06/project/imagr-grid/)
