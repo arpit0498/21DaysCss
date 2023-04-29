@@ -119,3 +119,27 @@ Created Blog on `Color schemes CSS`
    [Github Link](https://github.com/arpit0498/21DaysCss/tree/main/Day06)
 
    [website](./Day06/project/imagr-grid/)
+
+## Day 7
+
+### **Today Learning**
+
+- CSS Grid
+
+  - Responsive Grids
+  - template areas
+  - Fraction units
+  - Auto-fit minmax
+
+- writing blog on flexbox(completed)
+  [Blog Link Flexbox](https://arpit-gupta.hashnode.dev/flexbox-and-its-common-properties)
+
+## Project
+
+CSS Grid
+
+![grid](./Day07/Assets/cssGrid.gif)
+
+[git code](https://github.com/arpit0498/21DaysCss/tree/main/Day07)
+
+[codepen Link](https://codepen.io/arpit0498-the-vuer/pen/LYgjjGQ)

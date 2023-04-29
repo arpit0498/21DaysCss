@@ -11,6 +11,8 @@
 
 - writing blog on flexbox(completed)
 
+  [Blog Link Flexbox](https://arpit-gupta.hashnode.dev/flexbox-and-its-common-properties)
+
 ## Project
 
 CSS Grid
