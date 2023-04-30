@@ -148,13 +148,20 @@ CSS Grid
 
 ### **Today Learning**
 
-- CSS Grid template layout using
+- CSS Grid template layout using[Article Grid layout]
+- CSS styling for data fetch
+
+[dataFetch](https://r5w5ch.csb.app/)
+
+![dataFetch](./Day08/Assets/day8_react_css.gif)
 
 ## Project
 
 **Article Grid**
 
-![grid](./Day08/Assets/article_project.png)
+<img src="./Day08/Assets/article_project.png" width="100%" height="600px">
+
+<!-- ![grid](./Day08/Assets/article_project.png) -->
 
 [project](./Day08/project/article/)
 

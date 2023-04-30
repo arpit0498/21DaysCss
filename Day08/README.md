@@ -2,14 +2,16 @@
 
 ## **Today Learning**
 
-- CSS Grid Project
-
-  - Responsive Grids
-  - template areas
-  - Fraction units
-  - Auto-fit minmax
+- CSS Grid template layout Project
+- add css styling to one of react project
 
 ## Project
+
+CSS styling for data fetch
+
+![dataFetch](./Assets/day8_react_css.gif)
+
+[DATAfetch](https://r5w5ch.csb.app/)
 
 Article Grid
 
