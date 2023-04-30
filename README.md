@@ -143,3 +143,19 @@ CSS Grid
 [git code](https://github.com/arpit0498/21DaysCss/tree/main/Day07)
 
 [codepen Link](https://codepen.io/arpit0498-the-vuer/pen/LYgjjGQ)
+
+## Day 8
+
+### **Today Learning**
+
+- CSS Grid template layout using
+
+## Project
+
+**Article Grid**
+
+![grid](./Day08/Assets/article_project.png)
+
+[project](./Day08/project/article/)
+
+[gitcode](https://github.com/arpit0498/21DaysCss/tree/main/Day08)
