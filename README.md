@@ -4,6 +4,8 @@ css for 3 weeks
 
 ## Day 1
 
+[Day 1](https://github.com/arpit0498/21DaysCss/tree/main/Day01)
+
 project:
 
 ![Day 1 CSS](./Day01//assets/day1css.png)
@@ -13,6 +15,8 @@ project:
 [Github Link](https://github.com/arpit0498/21DaysCss)
 
 ## Day 2
+
+[Day 2](https://github.com/arpit0498/21DaysCss/tree/main/Day02)
 
 Created Blog on `Color schemes CSS`
 
@@ -25,6 +29,8 @@ Created Blog on `Color schemes CSS`
 [Github Link](https://github.com/arpit0498/21DaysCss)
 
 ## Day 3
+
+[Day 3](https://github.com/arpit0498/21DaysCss/tree/main/Day03)
 
 ### Today's Learning
 
@@ -51,6 +57,8 @@ Created Blog on `Color schemes CSS`
 
 ## Day 4
 
+[Day 4](https://github.com/arpit0498/21DaysCss/tree/main/Day04)
+
 ### Today Learning
 
 1. Internal CSS
@@ -71,7 +79,7 @@ Created Blog on `Color schemes CSS`
 
 ## Day 5
 
-[Day 5](./Day05/)
+[Day 5](https://github.com/arpit0498/21DaysCss/tree/main/Day05)
 
 [Github repo Link](https://github.com/arpit0498/21DaysCss)
 
@@ -95,7 +103,7 @@ Created Blog on `Color schemes CSS`
 
 ## Day 6
 
-**[Day 6 code](./Day06/)**
+[Day 6](https://github.com/arpit0498/21DaysCss/tree/main/Day06)
 
 ### **Today Learning**
 
@@ -122,6 +130,8 @@ Created Blog on `Color schemes CSS`
 
 ## Day 7
 
+[Day 7](https://github.com/arpit0498/21DaysCss/tree/main/Day07)
+
 ### **Today Learning**
 
 - CSS Grid
@@ -146,6 +156,8 @@ CSS Grid
 
 ## Day 8
 
+[Day 8](https://github.com/arpit0498/21DaysCss/tree/main/Day08)
+
 ### **Today Learning**
 
 - CSS Grid template layout using[Article Grid layout]
@@ -166,3 +178,22 @@ CSS Grid
 [project](./Day08/project/article/)
 
 [gitcode](https://github.com/arpit0498/21DaysCss/tree/main/Day08)
+
+## Day 9
+
+[Day 9](https://github.com/arpit0498/21DaysCss/tree/main/Day09)
+
+### **Today Learning**
+
+- CSS variables
+- Simple Google design page
+
+## Project
+
+Google
+
+![Google Design](./Day09/Assets/google.png)
+
+[Github code](./Day09/Project/)
+
+[Google Codepen Link](https://codepen.io/arpit0498-the-vuer/pen/BaqwjBv)
