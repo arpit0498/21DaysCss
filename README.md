@@ -200,6 +200,8 @@ Google
 
 ## Day 10
 
+[Day 10](./Day10/)
+
 ### **Today Learning**
 
 - CSS cards
@@ -221,3 +223,15 @@ Google
 [Card 3](https://k6k9h7.csb.app/)
 
 [Github Repo Link](https://github.com/arpit0498/21DaysCss/tree/main/Day10)
+
+## Day 11
+
+[Day 11](./Day11/)
+
+### **Today Learning**
+
+1. CSS math functions
+2. css gradients
+3. css text shadow
+
+[Github Repo Link](https://github.com/arpit0498/21DaysCss/tree/main/Day11)
