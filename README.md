@@ -235,3 +235,16 @@ Google
 3. css text shadow
 
 [Github Repo Link](https://github.com/arpit0498/21DaysCss/tree/main/Day11)
+
+## Day 12
+
+[Day 12](./Day12/)
+
+### **Today Learning**
+
+**project** : tabs
+
+![project_tabs](./Day12/Assets/day_12_tabs.gif)
+[Website](https://rrf8tr.csb.app/)
+
+[Github link](https://github.com/arpit0498/21DaysCss/tree/main/Day12)
