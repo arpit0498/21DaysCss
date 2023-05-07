@@ -249,7 +249,9 @@ Google
 
 [Github link](https://github.com/arpit0498/21DaysCss/tree/main/Day12)
 
-## Day 15
+## Day 13
+
+[Day 13](./Day13/)
 
 ### **Today Learning**
 
@@ -262,3 +264,38 @@ Google
 - CSS transform properties
 - CSS transform methods
 - CSS transition
+
+## Day 14
+
+[Day 14](./Day14/)
+
+### **Today Learning**
+
+- CSS 3d transforms
+
+        rotateX()
+        rotateY()
+        rotateZ()
+
+- CSS transform properties
+- CSS transform methods
+- CSS transition
+
+## Day 15
+
+[Day 15](./Day15/)
+
+### **Today Learning**
+
+- css transitions
+- css animations
+- keyframes
+- css bezier
+
+**project**
+
+[codepen](https://codepen.io/arpit0498-the-vuer/pen/GRYQywQ)
+
+[loading_project.webm](https://user-images.githubusercontent.com/32380690/236706505-3f7847ee-30d0-4b30-b49f-b9f999a94866.webm)
+
+[Live preview](./Day15/project/)
