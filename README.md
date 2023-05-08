@@ -299,3 +299,15 @@ Google
 [loading_project.webm](https://user-images.githubusercontent.com/32380690/236706505-3f7847ee-30d0-4b30-b49f-b9f999a94866.webm)
 
 [Live preview](./Day15/project/)
+
+## Day 14
+
+### **Today Learning**
+
+- CSS cards
+- CSS animatable properties
+
+![](./Day16/Assets/card4.png)
+![](./Day16/Assets/card5.png)
+![](./Day16/Assets/card6.png)
+![](./Day16/Assets/card7.png)
