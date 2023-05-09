@@ -313,3 +313,15 @@ Google
 ![](./Day16/Assets/card5.png)
 ![](./Day16/Assets/card6.png)
 ![](./Day16/Assets/card7.png)
+
+# Day 17
+
+[day 17](./Day17/)
+
+### Project
+
+Animated Shoe description-price card
+
+[project](./Day17/Project/card-shoe/index.html)
+
+[day17.webm](https://github.com/arpit0498/21DaysCss/assets/32380690/ecba374b-5fc9-4908-bb09-a50e8ce468d3)
