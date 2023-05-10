@@ -1,0 +1,124 @@
+
+    @import url("https://fonts.googleapis.com/css2?family=Neonderthaw&family=Poppins:wght@100;200;300;400;500;600;700;800&family=Roboto+Condensed:wght@300;400;700&display=swap");
+*, *::after,*::before{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body, button{
+    font-family: "poppins",sans-serif;
+
+
+}
+img{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+main{
+    min-height: 100vh;
+    width:100% ;
+    overflow: hidden;
+    background-image: linear-gradient(25deg,#141e30,#243b55);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.card-container{
+    position: relative;
+    color: #fff;
+    width: 440px;
+    height: 650px;
+}
+
+.card-face{
+    padding: 2.5rem 3rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom:0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.face-1{
+    background-image: linear-gradient(-45deg,rgba(255,255,255,0.15),rgba(255,255,255,0.05));
+}
+
+.face-1 .top-part > h2{
+    font-size: 2.1rem;
+    text-transform:uppercase;
+    font-family: "Roboto Condensed",sans-serif;
+    letter-spacing: 2px;
+    margin: 0.4rem 0  0.6rem;
+
+}
+
+.logo{
+    width: 50px;
+}
+.shoe-info{
+    display: flex;
+    align-items: center;
+}
+
+.shoe-new{
+    margin-right: 0.8rem;
+    padding: .3rem .6rem;
+    background-color: #fff;
+    color: rgb(30,35,66);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.shoe-year{
+    color:#eee;
+    font-size: 1.05rem;;
+}
+
+.bottom-part{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.shoe-price{
+    font-weight: 400;
+    font-size: 2.3rem;
+    font-family: "roboto condensed",sans-serif;
+    line-height: .95;
+
+}
+
+.shoe-price span{
+    font-size: 1.4rem;
+    margin-right: .2rem;
+}
+.right-arrow{
+    width: 35px;
+    padding-top: .3rem;
+}
+
+.right-arrow img{
+    filter:invert(1);
+    animation: move 0.5s infinite ease alternate;
+}
+
+@keyframes move {
+    from{
+        transform: translateX(-5px);
+    }
+    to{
+        transform: translateX(5px);
+    }
+}
+
+.face-2{
+    display: none;
+
+}
