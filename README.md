@@ -325,3 +325,11 @@ Animated Shoe description-price card
 [project](./Day17/Project/card-shoe/index.html)
 
 [day17.webm](https://github.com/arpit0498/21DaysCss/assets/32380690/ecba374b-5fc9-4908-bb09-a50e8ce468d3)
+
+# Day 18 
+[day a8](./Day18/)
+
+### Project
+
+[day18.webm](https://github.com/arpit0498/21DaysCss/assets/32380690/75776417-1ab7-4ec5-b822-29fb4e9b1c59)
+
