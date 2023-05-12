@@ -335,3 +335,13 @@ Animated Shoe description-price card
 [Project](./Day18/project/3d_description_card/)
 
 [day18.webm](https://github.com/arpit0498/21DaysCss/assets/32380690/75776417-1ab7-4ec5-b822-29fb4e9b1c59)
+
+# Day 20
+
+[Day 20](./Day20/)
+
+## 3d navigation lander page
+
+[day20.webm](https://github.com/arpit0498/21DaysCss/assets/32380690/4591cba2-aeb5-4484-a69d-def61885633f)
+
+[day 20](./Day20/Project/)
