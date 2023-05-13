@@ -345,3 +345,9 @@ Animated Shoe description-price card
 [day20.webm](https://github.com/arpit0498/21DaysCss/assets/32380690/4591cba2-aeb5-4484-a69d-def61885633f)
 
 [day 20](./Day20/Project/)
+
+# Day 21
+
+[Day 21](./Day21/)
+
+[day 20](./Day21/project/)
