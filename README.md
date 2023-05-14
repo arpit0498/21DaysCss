@@ -348,6 +348,16 @@ Animated Shoe description-price card
 
 # Day 21
 
+HTML and CSS in depth by `meta`
+
+![certificate](./Day21/assets/html_css_certificate.png)
+
 [Day 21](./Day21/)
 
-[day 20](./Day21/project/)
+[Day 21](./Day21/project/)
+
+**project**
+
+## Lucky shrub
+
+[day21project.webm](https://github.com/arpit0498/21DaysCss/assets/32380690/2e9436b3-e9cf-4300-8c8e-1969ee28faed)
